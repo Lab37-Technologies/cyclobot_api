@@ -10,7 +10,7 @@
         <mxCell id="zSEp71FFh0TbXDvU5vYL-3" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.arduino;gradientColor=#DFDEDE" value="" vertex="1">
           <mxGeometry height="120" width="120" x="194.67999999999998" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="zSEp71FFh0TbXDvU5vYL-6" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;imageBorder=light-dark(#000000,#F59E0B);strokeWidth=0;" value="" vertex="1">
+        <mxCell id="zSEp71FFh0TbXDvU5vYL-6" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;imageBorder=none;strokeWidth=0;" value="" vertex="1">
           <mxGeometry height="120" width="123.64" x="206.9" y="600" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-9" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=light-dark(#FFFFFF,#F59E0B);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.desktop_and_app_streaming;" value="" vertex="1">
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-27" parent="1" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=none;strokeColor=light-dark(#000000,#F59E0B);verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=4;" value="" vertex="1">
-          <mxGeometry height="120" width="80" x="730" y="600" as="geometry" />
+          <mxGeometry height="120" width="80" x="730" y="598" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-28" edge="1" parent="1" source="zSEp71FFh0TbXDvU5vYL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.72;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;" target="zSEp71FFh0TbXDvU5vYL-27">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry height="30" width="67.29" x="130" y="645" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontColor=light-dark(#000000,#E1EDFC);fontFamily=comfortaa;" value="Data Scientist" vertex="1">
-          <mxGeometry height="50" width="110" x="830" y="635" as="geometry" />
+          <mxGeometry height="53" width="120" x="830" y="630" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-35" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="" vertex="1">
           <mxGeometry height="132" width="90" x="890" y="346" as="geometry" />
