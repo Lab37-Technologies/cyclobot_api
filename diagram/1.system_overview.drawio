@@ -28,7 +28,7 @@
         <mxCell id="zSEp71FFh0TbXDvU5vYL-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontColor=light-dark(#E1EDFC,#E1EDFC);fontFamily=comfortaa;fontStyle=1" value="Data Scientist" vertex="1">
           <mxGeometry height="53" width="120" x="1504" y="457.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="zSEp71FFh0TbXDvU5vYL-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=50;fontColor=light-dark(#000000,#E1EDFC);fontFamily=comfortaa;fontStyle=1" value="Cyclobot System Overview" vertex="1">
+        <mxCell id="zSEp71FFh0TbXDvU5vYL-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=50;fontColor=light-dark(#E1EDFC,#E1EDFC);fontFamily=comfortaa;fontStyle=1" value="Cyclobot System Overview" vertex="1">
           <mxGeometry height="80" width="700" x="610" y="170" as="geometry" />
         </mxCell>
         <mxCell id="zSEp71FFh0TbXDvU5vYL-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;fontColor=light-dark(#E1EDFC,#E1EDFC);fontFamily=comfortaa;fontStyle=1" value="API" vertex="1">
